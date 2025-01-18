@@ -1,0 +1,2 @@
+🖥️ Java Practice Repository
+Welcome to my Java practice repository! This space is dedicated to my journey as a beginner tackling advanced-level Java questions. Each solution is written with clarity and proper documentation to ensure it's easy to follow and understand.
